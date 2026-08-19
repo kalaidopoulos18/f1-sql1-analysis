@@ -1,7 +1,7 @@
 USE f1db;
 
 -- every 2021 winner--
-select  ra.year , ra.name as grand_prix , d.forename , d.surname , c.name as team , res.points/
+select  ra.year , ra.name as grand_prix , d.forename , d.surname , c.name as team , res.points
 from results res
 join races ra on res.raceId = ra.raceId
 join drivers d on res.driverId = d.driverId
