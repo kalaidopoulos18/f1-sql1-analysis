@@ -39,13 +39,28 @@ Loaded into a local MySQL database.
 
 ## Key findings
 
-- **Ferrari's 2000s dominance** — Ferrari's win count peaks sharply in
-  the 2000s decade, reflecting the Schumacher era.
-- **Juan Manuel Fangio tops the all-time win rate** — with a minimum of
-  50 races applied, Fangio ranks first by win percentage, ahead of the
-  modern greats.
-- **Verstappen's 18-place comeback** — the largest single-race position
-  gain of 2021 (start position minus finish position).
+### Ferrari's 2000s dominance
+Ferrari's win count peaks sharply in the 2000s decade, reflecting the
+Schumacher era.
+
+![Ferrari wins per decade](ferrari_by_decade.png)
+
+### Juan Manuel Fangio tops the all-time win rate
+With a minimum of 50 races applied, Fangio ranks first by win percentage,
+ahead of the modern greats.
+
+### Verstappen's 18-place comeback
+The largest single-race position gain of 2021 (start position minus
+finish position).
+
+### 2021 title fight & teammate battles
+The championship came down to the final race between the two title
+contenders, while teammate head-to-head records reveal how lopsided some
+intra-team battles were.
+
+![2021 championship progression](championship_2021.png)
+
+![2021 teammate head-to-head](teammates_2021.png).
 
 ## How to run
 
